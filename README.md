@@ -63,7 +63,7 @@ The model successfully predicts the sentiment of customer reviews and can be use
 
 1. Clone this repository
 
-git clone https://github.com/your-username/amazon-food-reviews-sentiment-analysis.git
+https://github.com/chinnarasan007/nlp-amazon-food-reviews-sentiment-analysis/tree/main
 
 2. Install required libraries
 
