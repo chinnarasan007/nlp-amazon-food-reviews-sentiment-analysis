@@ -78,3 +78,8 @@ Product review analysis
 Customer feedback monitoring  
 E-commerce analytics  
 Brand sentiment analysis
+
+## Author
+
+Chinnarajan M  
+Aspiring Data Scientist
