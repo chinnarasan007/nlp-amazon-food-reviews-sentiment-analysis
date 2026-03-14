@@ -13,7 +13,10 @@ Negative
 
 ## Dataset
 
-Amazon Food Reviews Dataset
+The dataset used in this project is the **Amazon Fine Food Reviews dataset** available on Kaggle.
+
+Dataset Link:
+https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
 
 Contains more than 500,000 customer reviews including:
 
